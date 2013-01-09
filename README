@@ -1,0 +1,8 @@
+An image gallery.
+
+Example:
+http://crst.github.com/ig/index.html
+
+
+TODO: When viewed with Chrome (WebKit?), the reflection of the main
+      image is not displayed as it should.
