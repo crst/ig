@@ -1,7 +1,7 @@
 An image gallery.
 
 Example:
-http://crst.github.com/ig/index.html
+https://crst.github.io/ig/index.html
 
 
 TODO: When viewed with Chrome (WebKit?), the reflection of the main
